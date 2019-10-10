@@ -2,24 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="eba13f2b-21a3-45cd-ba89-8d25ce4724fc" name="Default Changelist" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/source/5581.wav" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/source/Baidu-TTS-2.mp3" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/source/Baidu-TTS.mp3" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/MachineBox.iml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/LockDevice_Door1.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/LockDevice_Door2.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Logger.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MachineApplication.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MachineBox.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MachineScene.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/PlayAudio.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/UploadMachineImage.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/source/haarcascade_frontalface_default.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/start_python_lock.bat" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/start_python_scene.bat" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/README" afterPath="$PROJECT_DIR$/README" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -121,7 +104,7 @@
         <entry file="file://$PROJECT_DIR$/README">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="0">
-              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <caret line="0" column="9" lean-forward="true" selection-start-line="0" selection-start-column="9" selection-end-line="0" selection-end-column="9" />
               <folding />
             </state>
           </provider>
@@ -235,6 +218,7 @@
         <option value="$PROJECT_DIR$/LockDevice_Door1.py" />
         <option value="$PROJECT_DIR$/MachineScene.py" />
         <option value="$PROJECT_DIR$/UploadMachineImage.py" />
+        <option value="$PROJECT_DIR$/README" />
       </list>
     </option>
   </component>
@@ -779,7 +763,7 @@
     <entry file="file://$PROJECT_DIR$/README">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <caret line="0" column="9" lean-forward="true" selection-start-line="0" selection-start-column="9" selection-end-line="0" selection-end-column="9" />
           <folding />
         </state>
       </provider>
